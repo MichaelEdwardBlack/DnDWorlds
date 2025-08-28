@@ -131,6 +131,21 @@
 - **Teresa (Eastern Princess/Magical):** Rival to Mallory, potential long-term ally.  
 - **Craig (Healer of Eastwatch):** Researching plague cure, trusts Vlad somewhat.  
 
+
+## Checklist for Each Session
+Whenever something unexpected happens, run it through this filter:
+- [ ] Plague Connection? → Can this help me control or research the cure?
+- [ ] Royal Perception? → Could this event make Mallory/Teresa look weak or me look strong?
+- [ ] Resource Gain? → Can I extract something tangible — materials, magical components, contacts?
+- [ ] Narrative Spin? → Can I retell this event later to shift public opinion?
+
+## End of Session Reflection
+Ask yourself:
+1. Did I grow any loyalty or dependency from allies?
+2. Did I get closer to controlling the cure?
+3. Did I make the monarchy appear weaker?
+4. Did I gain any tool, person, or knowledge that only I control?
+
 ---
 
 ## Notes
