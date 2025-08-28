@@ -1,106 +1,139 @@
-# Vladamir – Character Build Sheet
+# Vladamir – Character Sheet
 
-## Basic Info
-- **Race:** Githyanki
-- **Class:** Artificer (Armorer) 4 / Wizard (Abjuration) 1
-- **Faction:** Zhentarim (full member)
-- **Background:** Guild Artisan (blacksmith heritage)
-- **Alignment:** Lawful Evil (utilitarian philosophy)
-- **Armor/Weapons:** Chain Mail, Shield, Thunder Gauntlets
-
----
-
-## Stats (base – adjust to your sheet)
-- **Strength:** 10 
-- **Dexterity:** 12 
-- **Constitution:** 11 
-- **Intelligence:** 18 (primary stat)
-- **Wisdom:** 10
-- **Charisma:** 10
+## Character Info
+- **Name:** Vladamir  
+- **Race:** Githyanki  
+- **Class & Level:** Artificer (Armorer) 4 / Wizard (Abjuration) 1  
+- **Background:** Guild Artisan (Blacksmith)  
+- **Faction:** Zhentarim (Full Member)  
+- **Alignment:** Lawful Evil  
+- **Experience Points:** TBD  
 
 ---
 
-## Feats
-- **Magic Initiate (Warlock):** Armor of Agathys
+## Ability Scores
+- **Strength:** ??  | Mod: ??
+- **Dexterity:** ?? | Mod: ??
+- **Constitution:** ?? | Mod: ??
+- **Intelligence:** 18 | Mod: +4 (Primary)  
+- **Wisdom:** ?? | Mod: ??
+- **Charisma:** ?? | Mod: ??
 
 ---
 
-## Racial Features (Githyanki)
-- **Cantrip:** Mage Hand
-- **1st Level Spell:** Magic Missile (1/day)
-- **3rd Level Spell:** Jump (1/day)
-- **5th Level Spell:** Misty Step (1/day)
+## Proficiency
+- **Armor:** Light, Medium, Heavy, Shields  
+- **Weapons:** Simple Weapons  
+- **Tools:** Smith’s Tools, Tinker’s Tools, Thieves’ Tools  
+- **Saving Throws:** Constitution, Intelligence  
+- **Skills:** Investigation, Arcana, Insight, Persuasion
 
 ---
 
-## Artificer Features (Level 4 – Armorer)
-- **Thunder Gauntlets (Guardian mode)** – melee attack, forces enemy disadvantage if they attack others
-- **Infusions** (4 known, 2 active) – infuse items with magic
-- **Spellcasting:** Half-caster progression
+## Combat
+- **Armor Class (AC):** Chain Mail + Shield = ~18  
+- **Initiative:** ??  
+- **Speed:** 30 ft  
+- **Hit Points:** (Artificer d8 + Wizard d6 + CON mod per level)  
 
-### Infusions (examples)
-- Enhanced Defense (armor or shield +1)
-- Enhanced Weapon (Weapon +1)
-- Replicate Magic Item
-- Enhanced Focus (spellcasting +1)
-
----
-
-## Wizard Features (Level 1 – Abjuration)
-- **Arcane Ward:** Protective ward scales with wizard level
-- **Spellbook:** Expands prepared spells
-- **Spellcasting:** Full progression
+**Attacks:**  
+- **Thunder Gauntlets** (1d8 thunder, disadvantage on enemy attacks not targeting Vlad)  
+- **Booming Blade** (extra thunder if enemy moves)  
+- **Shield Bash** (improvised if needed)  
 
 ---
 
-## Cantrips
+## Class Features
+**Artificer (Armorer – Guardian)**  
+- Thunder Gauntlets (special attack)  
+- Arcane Armor (integrates armor, can’t be removed)  
+- Infusions (4 known, 2 active)  
+- Tool Expertise 
+- Defensive Field (bonus action = temp hitpoint for each artificer level = 4)
 
-### Free (Race/Class)
-- Mage Hand (Githyanki)
+**Wizard (Abjuration)**  
+- Arcane Ward (protective shield)  
+- Spellbook (expands prep options)  
 
-### Artificer
-- Ray of Frost
-- Prestidigitation
-
-### Wizard
-- Booming Blade
-- Message
-- Minor Illusion
-
----
-
-## Known/Prepared Spells
-
-### Free (Race/Class)
-- **1st Level:** Magic Missile, Thunderwave, Jump
-
-### Artificer (prepare 6/day – Int modifier 4 + half artificer level 2)
-- Sanctuary
-- Faerie Fire
-- Absorb Elements
-- Grease
-- Feather Fall
-- Identify
-
-### Wizard (prepare 5/day – Int modifier + wizard level)
-- Shield
-- Ice Knife
-- Protection from Good and Evil
-- Fog Cloud
-- Silvery Barbs
-
-### Feat
-- Armor of Agathys (always prepared)
+**Feat:** Magic Initiate (Warlock) – Armor of Agathys  
 
 ---
 
-## Spell Slots
-**Level 1:** 4
-- [ ] 1
-- [ ] 1
-- [ ] 1
-- [ ] 1
+## Racial Traits (Githyanki)
+- **Cantrip:** Mage Hand  
+- **Spells (1/day each):** Magic Missile, Jump  
+- **Bonus Proficiencies:** Greatsword, Shortsword, Light/Medium Armor  
+- **Psionics (future):** Misty Step at higher levels  
 
-**Level 2:** 2
-- [ ] 2
-- [ ] 2
+---
+
+## Spellcasting
+
+**Spell Slots:**  
+- Level 1: 4  
+- Level 2: 2  
+
+**Cantrips:**  
+- Mage Hand (Racial)  
+- Ray of Frost (Artificer)  
+- Prestidigitation (Artificer)  
+- Booming Blade (Wizard)  
+- Message (Wizard)  
+- Minor Illusion (Wizard)  
+
+**1st Level Spells**  
+- Magic Missile (Racial)  
+- Jump (Racial)  
+- Thunderwave (Artificer Free)  
+- Sanctuary (Artificer)  
+- Faerie Fire (Artificer)  
+- Absorb Elements (Artificer)  
+- Grease (Artificer)  
+- Feather Fall (Artificer)  
+- Identify (Artificer)  
+- Shield (Wizard)  
+- Ice Knife (Wizard)  
+- Protection from Good & Evil (Wizard)  
+- Fog Cloud (Wizard)  
+- Silvery Barbs (Wizard)  
+- Armor of Agathys (Feat)  
+
+---
+
+## Equipment
+- Chain Mail  
+- Shield  
+- Thunder Gauntlets (Armorer Feature)  
+- Smith’s Tools, Tinker’s Tools  
+- [Magical Pillow](./Campaign/Items.md#blue-starry-book) (dream-viewer)  
+- 10 Torches
+- 7 Rations
+- Backpack
+- Bedroll
+- 2 [fish scales](./Campaign/Items.md#fish-scales)
+- 1 contaminated fish
+- handful of [yellow dream flowers](./Campaign//Items.md#yellow-dream-flowers)]
+
+---
+
+## Personality
+- **Traits:** Pragmatic, utilitarian, manipulative, calculating  
+- **Ideals:** Usefulness defines goodness. Power should belong to the most effective.  
+- **Bonds:** Family legacy of blacksmithing, but disdain for their weakness.  
+- **Flaws:** Sees people as tools. Loyalty lasts only as long as usefulness.  
+
+---
+
+## Allies & Connections
+- **Roark (Dragonborn Paladin):** Powerful ally, outspoken, potential rival for influence.  
+- **Tibble (Halfling Druid):** Compassionate, guilt over brother’s plague injury.  
+- **Mallory (Eastern Princess/Barbarian):** Values strength, gullible, loyal if flattered.  
+- **Teresa (Eastern Princess/Magical):** Rival to Mallory, potential long-term ally.  
+- **Craig (Healer of Eastwatch):** Researching plague cure, trusts Vlad somewhat.  
+
+---
+
+## Notes
+- **Political Play:** Manipulate Mallory for short-term favor, pivot to Teresa for long-term plan.  
+- **Manipulative Edge:** Uses honesty/vulnerability to trick allies into loyalty.  
+- **Grand Goal:** Control East → infiltrate West → overthrow monarchy → new order under Vlad.  

@@ -1,5 +1,7 @@
 # Thalidor Campaign
 
+For info about the world see [Thalidor](./Government/README.md)
+
 ## Session 1 – Arrival in Hawthorne
 * Party meets at Fair Lady Tavern (Chester the talking cat introduced).
 * Cloaked travelers threaten owner of the Fat Rabbit Tavern.
