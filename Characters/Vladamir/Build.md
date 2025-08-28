@@ -7,17 +7,17 @@
 - **Background:** Guild Artisan (Blacksmith)  
 - **Faction:** Zhentarim (Full Member)  
 - **Alignment:** Lawful Evil  
-- **Experience Points:** TBD  
+- **Languages:** Common, Gith, Dwarvish
 
 ---
 
 ## Ability Scores
-- **Strength:** ??  | Mod: ??
-- **Dexterity:** ?? | Mod: ??
-- **Constitution:** ?? | Mod: ??
-- **Intelligence:** 18 | Mod: +4 (Primary)  
-- **Wisdom:** ?? | Mod: ??
-- **Charisma:** ?? | Mod: ??
+- **Strength:** 10
+- **Dexterity:** 11
+- **Constitution:** 12
+- **Intelligence:** 18
+- **Wisdom:** 10
+- **Charisma:** 10
 
 ---
 
@@ -32,9 +32,10 @@
 
 ## Combat
 - **Armor Class (AC):** Chain Mail + Shield = ~18  
-- **Initiative:** ??  
+- **Initiative:** +0  
 - **Speed:** 30 ft  
 - **Hit Points:** (Artificer d8 + Wizard d6 + CON mod per level)  
+- **Resistances:** Psychic (racial)
 
 **Attacks:**  
 - **Thunder Gauntlets** (1d8 thunder, disadvantage on enemy attacks not targeting Vlad)  
@@ -61,9 +62,8 @@
 
 ## Racial Traits (Githyanki)
 - **Cantrip:** Mage Hand  
-- **Spells (1/day each):** Magic Missile, Jump  
+- **Spells (1/day each):** Magic Missile, Jump, Misty Step 
 - **Bonus Proficiencies:** Greatsword, Shortsword, Light/Medium Armor  
-- **Psionics (future):** Misty Step at higher levels  
 
 ---
 
@@ -98,6 +98,9 @@
 - Silvery Barbs (Wizard)  
 - Armor of Agathys (Feat)  
 
+**2nd Level Spells**
+- Misty Step (Racial)
+
 ---
 
 ## Equipment
@@ -112,7 +115,11 @@
 - Bedroll
 - 2 [fish scales](./Campaign/Items.md#fish-scales)
 - 1 contaminated fish
-- handful of [yellow dream flowers](./Campaign//Items.md#yellow-dream-flowers)]
+- Bundle of [yellow dream flowers](./Campaign//Items.md#yellow-dream-flowers)]
+- Mess Kit
+- Tinderbox
+- Waterskin
+- 1 [Spell Slot Replenish Potion](./Campaign/Items.md#spell-slot-replenish-potion)
 
 ---
 

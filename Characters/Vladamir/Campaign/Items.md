@@ -15,3 +15,6 @@ Chest that opens up a [Goblin Merchant](./Characters/Goblin%20Merchant.md) store
 
 ## Clockwork Eye
 Allows the wearer to rewind time by 6 seconds once per long rest
+
+## Spell Slot Replenish Potion
+1 bonus action to drink and replenishes 1 level 1 spell slot
