@@ -65,7 +65,7 @@ Party:
 * Roark writes to [Camille](./Characters/Camille.md); Vlad writes to [Craig](./Characters/Craig.md) ("I’ll keep the water in the right hands — ours").
 * [Shaded figure](./Characters/Unknown.md) reappears, taunts Tibble: "You won’t save him."
 
-## Session 8 – Dream Manipulation & Coastal Town
+## Session 8 – Dream Manipulation & Seaside Town
 * Vlad uses [dream-pillow](./Items.md#blue-starry-book) to spy on Roark & Tibble → fails deception, exposed.
     - Roark outs him as manipulative pawnmaster using his [Clockwork Eye](./Items.md#clockwork-eye) given to him by [Minerva](./Characters/Minerva.md).
     - Tibble now mistrusts Vlad (feels violated).
@@ -79,4 +79,28 @@ Party:
     - Roark’s compassion saves little girl (transformed wolf) with [clockwork eye](./Items.md#clockwork-eye) rewind.
     - Vlad mishears "capture" as "kill" → accidentally blows up old man.
 * Wolves may shift back in daytime; hints of magical control, similar to elementals.
+
 * [Teresa](./Characters/Teresa.md) arrives at battle’s end: "What’s going on here?"
+
+## Session 9 - Seaside to Coastal City - Adventures with Percy
+* Lycanthropy Conflict
+    - [Teresa](./Characters/Teresa.md) arrives mid-battle, decisive and pragmatic. Orders executions rather than cures
+    - Vlad sides with her logic but tries to suggest a more theatrical execution to build fear/control. Teresa declines, preferring efficiency
+    - Roark resists Teresa's command, showing his softer side. Carries little girl to Doug's
+    - Tibble is bitten -> loses a Sanity point -> begins slow transformation
+    - The little girl later betrays Roark (bite attempt). [Teresa](./Characters/Teresa.md) delivers the final blow, burying her alive
+    - Percy, the bullied boy with wolfish traits, saved by Tibble. Shows strong stealth potential
+* Political Advancement:
+    - Vlad speaks privately with [Teresa](./Characters/Teresa.md), pitching the "8 champions" idea (her 5 + [Malory](./Characters/Malory.md)'s 3)
+    - Tersa likes the framing -> gives Vlad, Roark, and Tibble supplies (3 backpacks, 60 gold, and a [Sending Stone](./Items.md#sending-stone)
+* Percy's Training:
+    - Party begins shaping Percy into a rogue apprentice. Roark bonds strongly with him
+    - Team orchestrates a montage of pickpocketing + distractions -> net 100 gold each to pay the mountain guide
+    - Vlad shines with prestidigitatoin (marking targets, fireworks), illusion tricks, and manipulation
+    - Roark distracts people and guards by bumping into them and talking with them with his high charisma
+    - Tibble causes rain distractions and gust of wind to turn out lights
+    - Circus performance was funny as Tibble played the announcer and Vlad played the cat-eating lizard, and Roark played the firebreathing dragon
+    - Earned an extra 10 gold each for the circus performance with Roark asking for tips
+* The Mountian Guide Revealed:
+    - Dawn arrives, the guide shows up...it's Vlad's father, [Joseph](./Characters//Joseph.md), the family blacksmith patriarch
+ 
