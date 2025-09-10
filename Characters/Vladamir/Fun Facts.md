@@ -22,7 +22,7 @@
 
 - [x] "I have already calculated which party member is most likely to betray me first. It’s not personal. It’s just statistics."
 
-- [ ] "I once convinced my brother Benito that drinking molten steel would make him stronger. He still can’t taste food properly."
+- [x] "I once convinced my brother Benito that drinking molten steel would make him stronger. He still can’t taste food properly."
 
 ## Development - Early Shift – Learning to Mimic Empathy
 - [ ] "I have studied how to give comforting words in difficult situations. The correct response is: ‘That sounds hard. I’m here for you.’ Did I say it right?"
@@ -45,4 +45,5 @@
 
 
 - [ ] Late Game – Feigned Emotional Loyalty Becomes Nearly Indistinguishable from Genuine Bonding
+
 "At first, I viewed emotional bonds as mere tools. But the longer I maintain them, the more… difficult they are to quantify. Is usefulness the only measure of worth? I… need more data."
