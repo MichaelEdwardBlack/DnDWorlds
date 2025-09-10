@@ -13,5 +13,7 @@ Fishing Town
     - Early hints of magical contamination and outside manipulation.
 
 ## Fair Lady Tavern
+Run by [Camille](../Characters/Camille.md)
 
 ## Fat Rabbit Tavern
+Cloaked travelers caused trouble here

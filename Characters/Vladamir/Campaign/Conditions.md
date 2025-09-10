@@ -22,7 +22,7 @@ Magical Curse or Ritual: Victims look drained, not diseased — possibly their l
 
 Weaponized Sabotage: The conjured elementals at the water source strongly suggest a deliberate plot to destabilize the East by poisoning its lifeline.
 
-Possibly Linked to Werewolves: The coastal town’s wolf-curse may be part of the same network of afflictions. Both involve unnatural transformations/draining tied to magical corruption.
+Possibly Linked to Werewolves: The [Seaside](./Geography/Seaside.md)’s wolf-curse may be part of the same network of afflictions. Both involve unnatural transformations/draining tied to magical corruption.
 
 Not Just Waterborne: While dead fish were found, the severity of symptoms suggests the water is one vector among many. Something deeper (necrotic magic, planar influence, or a pact) is driving the Bloodless Death.
 
@@ -33,3 +33,10 @@ Not Just Waterborne: While dead fish were found, the severity of symptoms sugges
     - Restrict water supplies to enforce loyalty.
     - Provide selective access to a cure to build a loyal faction.
     - Frame rivals as “failures” for not protecting their people.
+
+## Lycanthropy
+
+* Converts humans or possibly others into wolf-like creatures
+* Curse is spread by bites
+* After being bitten, the player can lose **sanity** points to basically get advantage on a roll. 
+* After losing an unknown amount of **sanity**, the player will completely transform into a lycanthrope.

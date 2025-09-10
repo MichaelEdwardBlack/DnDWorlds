@@ -18,3 +18,6 @@ Allows the wearer to rewind time by 6 seconds once per long rest
 
 ## Spell Slot Replenish Potion
 1 bonus action to drink and replenishes 1 level 1 spell slot
+
+## Sending Stone
+Allows the user to communicate accross great distances to the holder of its matching sending stone

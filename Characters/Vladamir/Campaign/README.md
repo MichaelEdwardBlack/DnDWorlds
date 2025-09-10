@@ -70,7 +70,7 @@ Party:
     - Roark outs him as manipulative pawnmaster using his [Clockwork Eye](./Items.md#clockwork-eye) given to him by [Minerva](./Characters/Minerva.md).
     - Tibble now mistrusts Vlad (feels violated).
     - Vlad promises to "ask permission" next time as cover.
-* Arrive in coastal town in disarray (sheep & people dying).
+* Arrive in [Seaside](./Geography/Seaside.md) in disarray (sheep & people dying).
     - Meet salt-and-pepper-haired old man; warns to be inside at night.
     - Meet [Doug](./Characters/Doug.md) (dragonborn farmer) who lost all his sheep.
 * Discover wolves are actually transformed townsfolk (possibly werewolves).
@@ -89,7 +89,7 @@ Party:
     - Roark resists Teresa's command, showing his softer side. Carries little girl to Doug's
     - Tibble is bitten -> loses a Sanity point -> begins slow transformation
     - The little girl later betrays Roark (bite attempt). [Teresa](./Characters/Teresa.md) delivers the final blow, burying her alive
-    - Percy, the bullied boy with wolfish traits, saved by Tibble. Shows strong stealth potential
+    - [Percy](./Characters/Percy.md), the bullied boy with wolfish traits, saved by Tibble. Shows strong stealth potential
 * Political Advancement:
     - Vlad speaks privately with [Teresa](./Characters/Teresa.md), pitching the "8 champions" idea (her 5 + [Malory](./Characters/Malory.md)'s 3)
     - Tersa likes the framing -> gives Vlad, Roark, and Tibble supplies (3 backpacks, 60 gold, and a [Sending Stone](./Items.md#sending-stone)

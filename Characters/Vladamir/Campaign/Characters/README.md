@@ -1,13 +1,17 @@
 # List of Characters
 
+* [Adolf](./Adolf.md)
 * [Agatha](./Agatha.md)
 * [Camille](./Camille.md)
 * [Chester](./Chester.md)
 * [Craig](./Craig.md)
 * [Doug](./Doug.md)
+* [Ekaterina](./Ekaterina.md)
 * [Goblin Merchant](./Goblin%20Merchant.md)
+* [Joseph](./Joseph.md)
 * [Malory](./Malory.md)
 * [Minerva](./Minerva.md)
+* [Percy](./Percy.md)
 * [Roark](./Roark.md)
 * [Teresa](./Teresa.md)
 * [Tibble](./Tibble.md)
