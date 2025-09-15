@@ -1,5 +1,5 @@
 # Thalidor
-![alt text](Thalidor.jpg)
+![alt text](<Thalidor.jpg>)
 ## Political System
 * Thalidor is an Absolute Monarchy, meaning that the ruling sovereign is not limited by a constitution, parliament, or congressional power
 * However, Thalidor's monarchy has adopted a unique progression of power due to the needs and limitations of its landscape.
