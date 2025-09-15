@@ -15,7 +15,7 @@ Party:
 * Catastrophic rockslide damages [Hawthorne](./Geography/Hawthorne.md); party saves many, but town still heavily wounded.
 * Leave for [Eastwatch](./Geography/Eastwatch.md) to seek aid.
 
-## Session 2 – Return to Hawthorne’s Tragedy
+## Session 2 – Return to Hawthorne's Tragedy
 * On way out, hear screams → return to find massacre (most townsfolk dead).
 * Threatening note left behind (foreshadowing enemy manipulations).
 * Decide to continue to [Eastwatch](./Geography/Eastwatch.md) for answers and resources.
@@ -30,10 +30,10 @@ Party:
 ## Session 4 – Forest with a Name
 * Gather [yellow dream flowers](./Items.md#yellow-dream-flowers) (vision-inducing).
 * Party is shrunk to rat-size; aid rat village in fighting cats.
-* Vlad acquires [magical dream-pillow](./Items.md#blue-starry-book) (lets him view others’ dreams).
+* Vlad acquires [magical dream-pillow](./Items.md#blue-starry-book) (lets him view others' dreams).
 * Forest encounter forces reflection:
     - Vlad recalls father calling him reckless.
-    - Tibble’s guilt over brother losing leg to plague.
+    - Tibble's guilt over brother losing leg to plague.
     - Roark feeling like a coward for running from a fight when he was little (he would have died)
 * Party bonds through shared vulnerabilities. Vlad realizes honesty/vulnerability can be a tool for manipulation.
 
@@ -59,11 +59,11 @@ Party:
 ## Session 7 – Contest & New Ties
 * [Malory](./Characters/Malory.md) asks party to be 3 of her 5 champions in upcoming contest (vs. Western nobles Szeth & Sylvia).
 * Contest is 3 months away.
-* The party earns Malory’s favor (Roark especially, for strength).
+* The party earns Malory's favor (Roark especially, for strength).
 * Party meets greedy [goblin merchant](./Characters/Goblin%20Merchant.md) (special shop accessible daily).
 * Instead of sending stones, receive messages in bottles for long-distance contact.
-* Roark writes to [Camille](./Characters/Camille.md); Vlad writes to [Craig](./Characters/Craig.md) ("I’ll keep the water in the right hands — ours").
-* [Shaded figure](./Characters/Unknown.md) reappears, taunts Tibble: "You won’t save him."
+* Roark writes to [Camille](./Characters/Camille.md); Vlad writes to [Craig](./Characters/Craig.md) ("I'll keep the water in the right hands — ours").
+* [Shaded figure](./Characters/Unknown.md) reappears, taunts Tibble: "You won't save him."
 
 ## Session 8 – Dream Manipulation & Seaside Town
 * Vlad uses [dream-pillow](./Items.md#blue-starry-book) to spy on Roark & Tibble → fails deception, exposed.
@@ -73,14 +73,14 @@ Party:
 * Arrive in [Seaside](./Geography/Seaside.md) in disarray (sheep & people dying).
     - Meet salt-and-pepper-haired old man; warns to be inside at night.
     - Meet [Doug](./Characters/Doug.md) (dragonborn farmer) who lost all his sheep.
-* Discover wolves are actually transformed townsfolk (possibly werewolves).
+* Discover wolves are actually transformed townsfolk (possibly werewolves or [Lycanthropy](./Conditions.md#lycanthropy)).
     - Tibble baits wolves in sheep form.
     - Party ambushes and wins fight.
-    - Roark’s compassion saves little girl (transformed wolf) with [clockwork eye](./Items.md#clockwork-eye) rewind.
+    - Roark's compassion saves little girl (transformed wolf) with [clockwork eye](./Items.md#clockwork-eye) rewind.
     - Vlad mishears "capture" as "kill" → accidentally blows up old man.
 * Wolves may shift back in daytime; hints of magical control, similar to elementals.
 
-* [Teresa](./Characters/Teresa.md) arrives at battle’s end: "What’s going on here?"
+* [Teresa](./Characters/Teresa.md) arrives at battle's end: "What's going on here?"
 
 ## Session 9 - Seaside to Coastal City - Adventures with Percy
 * Lycanthropy Conflict
@@ -93,8 +93,8 @@ Party:
 * Political Advancement:
     - Vlad speaks privately with [Teresa](./Characters/Teresa.md), pitching the "8 champions" idea (her 5 + [Malory](./Characters/Malory.md)'s 3)
     - Tersa likes the framing -> gives Vlad, Roark, and Tibble supplies (3 backpacks, 60 gold, and a [Sending Stone](./Items.md#sending-stone)
-* Percy's Training:
-    - Party begins shaping Percy into a rogue apprentice. Roark bonds strongly with him
+* [Percy](./Characters/Percy.md)'s Training:
+    - Party begins shaping [Percy](./Characters/Percy.md) into a rogue apprentice. Roark bonds strongly with him
     - Team orchestrates a montage of pickpocketing + distractions -> net 100 gold each to pay the mountain guide
     - Vlad shines with prestidigitatoin (marking targets, fireworks), illusion tricks, and manipulation
     - Roark distracts people and guards by bumping into them and talking with them with his high charisma
@@ -104,3 +104,29 @@ Party:
 * The Mountian Guide Revealed:
     - Dawn arrives, the guide shows up...it's Vlad's father, [Joseph](./Characters//Joseph.md), the family blacksmith patriarch
  
+## Session 10 - Mountain Pass
+
+* Father & Son Tension:
+    - Vlad mocked [Joseph](./Characters/Joseph.md) narrow-mindedness: "How is your strength going to help us through the mountain? You are so narrow minded you can't even see how the royalty chose us as their champions."
+    - [Joseph](./Characters/Joseph.md) made his own remarks: "Only the weak flaunt their power. The chosen champions are so reckless they don't even take watches in the night!?"
+    - Tibble spoke in Vlad's defense.
+    - [Joseph](./Characters/Joseph.md) later called Tibble reckless for traveling with Vlad → Vlad stayed silent, but took psychic damage internally.
+* [Minerva](./Characters/Minerva.md)'s Warning:
+    - Party encountered Minerva at the start of the maze.
+    - She expressed distrust of the West, saying she had "no good connection there."
+    - Warned the party that the West's chaos is different from the East's imbalance.
+    - Advised them to take the right fork at the maze entrance.
+    - Following her advice led to the shortest route — but also to the ice beast fight (the only combat encounter).
+* Moments with [Percy](./Characters/Percy.md):
+    - [Percy](./Characters/Percy.md) saw snow for the first time, alongside Roark.
+    - Thanked Vlad for being "much nicer than [Joseph](./Characters/Joseph.md) and camped next to him.
+* Watch & Snow Incident:
+    - Roark fell asleep outside in the snow.
+    - Vlad lied about keeping watch the whole time, but [Joseph](./Characters/Joseph.md) caught him.
+    - Vlad redeemed himself by finding Roark buried in snow.
+* The Maze Challenges:
+    1. Ice Beast Battle – Roark nearly died; Tibble revived him with Cure Wounds. [Percy](./Characters/Percy.md) thought Roark was dead, but the party persuaded him it was a tactic. Vlad added: "Sometimes you need to know when and how to trick your enemy."
+    2. Fear Illusion – Vlad saw his own death (fear of mortality and failure). Roark saw through the illusion and guided the party.
+    3. Blood Sacrifice Bowl – Roark cut his hand and bled into the bowl to open the way. DM whispered private consequence to Roark.
+* End of Session:
+    - [Joseph](./Characters/Joseph.md) awaited them at the exit of the maze to continue the mountain crossing
