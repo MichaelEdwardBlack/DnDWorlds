@@ -130,3 +130,94 @@ Party:
     3. Blood Sacrifice Bowl – Roark cut his hand and bled into the bowl to open the way. DM whispered private consequence to Roark.
 * End of Session:
     - [Joseph](./Characters/Joseph.md) awaited them at the exit of the maze to continue the mountain crossing
+
+## Session 11 through 13 - Memories
+### Arrival at the Keep
+* Joseph led the party to a keep in the mountains.
+* The group spoke to enchanted plants that said the keep belonged to “the Masters.”
+* They found 13 graves the size of children’s graves, but the plants claimed nothing was buried there. A woman comes and digs the holes, then fills them back in. No further details known.
+* Roark found a forge and crafted something (a weapon for him or Percy, I can't remember).
+* Vlad claimed the largest bedchamber. Behind it, he discovered a hidden room with a magical chessboard and writing desk.
+* The chessboard required capturing pieces in a specific order to progress; failing resets the board.
+* Vlad failed three times, grew frustrated, and went to bed.
+
+### The Transformation in the Night
+* Tibble’s behavior grew increasingly aggressive due to her lycanthropic infection.
+* Roark hired the goblin merchant to keep watch during the night.
+* Tibble transformed into a werewolf.
+* Roark immediately pursued her, while Vlad stayed with Percy, who was terrified.
+* Roark successfully dodged her attacks, then cast Command to make her revert and sleep.
+* Roark shouted for Vlad to grab the dream pillow.
+* Vlad, who had been cooking soup with Percy by the fire, fetched the pillow and entered Tibble’s dream.
+
+### The Dream and the Awakening
+* Throughout the transformation, the party received mental flashes of Tibble’s memories — moments of trauma involving her brother and Sweetwater Lake.
+* Inside the dream, Vlad found Tibble watching a projector screen showing these memories.
+* She was entranced until Vlad broke through, telling her she had become a werewolf and needed to wake up.
+* Tibble regained her true self and awoke safely.
+* The soup Vlad had cooked without magic was surprisingly good — a symbolic moment showing his growing care for his companions.
+
+### Clash with Joseph
+* Joseph stormed in angrily, calling Vlad reckless for aligning with his friends.
+* Vlad defended his companions, saying that different strengths make a stronger whole, and that their playfulness boosted morale.
+* Percy accidentally bumped into Joseph, who struck him.
+* Vlad froze, haunted by the memory of being struck the same way in his youth.
+* Roark verbally defended Percy, while Percy withdrew, shaken.
+
+### Conversation with Percy
+* Roark discovered Percy had fleas and helped him clean up with a bath.
+* Later, Vlad and Percy talked about morality:
+* Percy worried he was “bad” and “deserved” to be hit.
+* Vlad explained his utilitarian beliefs, but also admitted that morality can differ between people.
+* He told Percy to decide for himself what’s right and wrong — and reassured him he was not a bad person.
+
+### The Watchers’ Game
+* Vlad and Roark returned to the magical chessboard and solved it together.
+* A journal from the Watchers appeared, describing a chess metaphor about sacrificing pawns to cleanse a corrupted board.
+* “The pawns play at being kings, and now the board must be wiped clean.”
+* Vlad was deeply intrigued, torn between his utilitarian roots, his growing care for his companions, and the Watchers’ ruthless ideology.
+
+### The Soup Duel
+* In the morning, Tibble doubted that Vlad had made the soup himself, so he vowed to prove it.
+* Percy joined in, wanting to cook too.
+* Roark announced a cooking competition and volunteered to commentate.
+* Vlad cooked perfectly again, while Percy made a meal from trash — something from his childhood.
+* Feeling compassion, Vlad used Prestidigitation to make his soup taste worse and Percy’s trash taste better.
+* Roark was surprised it didn’t taste horrible.
+* Tibble was stubborn but finally admitted Vlad’s soup was good, giving a small smile.
+* The party laughed together — a rare moment of warmth.
+
+### Planning to Keep Their Memories
+* Knowing Joseph would cast a spell to remove their memories before entering the West, the party devised a plan:
+* Vlad would create an illusion of a Watcher commanding Joseph to let them retain their memories.
+* Roark would use Command to reinforce the illusion.
+* Tibble would cast Hypnotic Pattern to charm Joseph for an advantage.
+* Despite the clever setup, Joseph saw through it all and mocked Vlad for taking a coward’s path instead of confronting him directly.
+
+### The Fight Against Joseph
+Initiative begins.
+* Tibble uses Entangle to root Joseph’s battle axe to the ground.
+* Vlad upcasts Armor of Agathys and walks straight up to Joseph, saying, “Give me your best shot.”
+* Roark’s Command fails.
+* Joseph attacks twice and misses. The party mocks him. Tibble quips, “I find stretching helps,” dealing psychic damage.
+* Percy darts in, slashes Joseph’s leg, and leaps back.
+* Tibble’s Gust of Wind pins Joseph prone.
+* Vlad’s Booming Blade misses.
+* Roark’s sword connects, doing heavy damage.
+* Joseph burns Action Surge for four attacks — two at Vlad, two at Roark.
+* Vlad avoids all thanks to Shield and Roark’s Shield of Faith.
+* Roark takes several hits.
+* Percy slashes again; Tibble misses her Hypnotic Pattern.
+* Roark lands Searing Smite, setting Joseph ablaze.
+* Joseph strikes Vlad, triggering Armor of Agathys for retaliatory damage.
+* Joseph grapples Vlad and begins casting the memory removal spell — but Roark activates his Clockwork Eye, reversing time just enough for Vlad to escape.
+* Vlad notices the blue light (nat 20 on Perception) and suspects Roark intervened.
+* Vlad uses his extra chance to land a Booming Blade — a blow that could have killed Joseph.
+* But seeing Joseph’s weakness, Vlad chooses mercy, knocking him unconscious instead.
+* The companions cheer, but Vlad feels conflicted.
+
+### The Aftermath
+* Vlad leaves a [note](./Note-From-Vlad-To-Joseph.md) in Joseph’s clothes, intending to make amends.
+* Then: hands clap in the silence.
+* Minerva appears, her voice echoing through the hall:
+* “Well done. Mind if I join you?”
