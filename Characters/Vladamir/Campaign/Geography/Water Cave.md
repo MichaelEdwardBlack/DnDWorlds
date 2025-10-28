@@ -8,4 +8,4 @@
 * Significance:
     - Whoever controls the water controls survival in Eastern Thalidor (Vlad immediately noticed this).
     - Mallory proved her strength here, earning more respect from her troops.
-    - The [conjurer’s](../Characters/Unknown.md) involvement suggests the water is being deliberately targeted to destabilize the region.
+    - The [conjurer’s](../Characters/Watchers.md) involvement suggests the water is being deliberately targeted to destabilize the region.

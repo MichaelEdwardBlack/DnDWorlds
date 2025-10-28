@@ -63,7 +63,7 @@ Party:
 * Party meets greedy [goblin merchant](./Characters/Goblin%20Merchant.md) (special shop accessible daily).
 * Instead of sending stones, receive messages in bottles for long-distance contact.
 * Roark writes to [Camille](./Characters/Camille.md); Vlad writes to [Craig](./Characters/Craig.md) ("I'll keep the water in the right hands — ours").
-* [Shaded figure](./Characters/Unknown.md) reappears, taunts Tibble: "You won't save him."
+* [Shaded figure](./Characters/Watchers.md) reappears, taunts Tibble: "You won't save him."
 
 ## Session 8 – Dream Manipulation & Seaside Town
 * Vlad uses [dream-pillow](./Items.md#blue-starry-book) to spy on Roark & Tibble → fails deception, exposed.
@@ -133,7 +133,7 @@ Party:
 
 ## Session 11 through 13 - Memories
 ### Arrival at the Keep
-* Joseph led the party to a keep in the mountains.
+* [Joseph](./Characters/Joseph.md) led the party to a [keep in the mountains](./Geography/Mountain%20Keep.md).
 * The group spoke to enchanted plants that said the keep belonged to “the Masters.”
 * They found 13 graves the size of children’s graves, but the plants claimed nothing was buried there. A woman comes and digs the holes, then fills them back in. No further details known.
 * Roark found a forge and crafted something (a weapon for him or Percy, I can't remember).
@@ -142,12 +142,12 @@ Party:
 * Vlad failed three times, grew frustrated, and went to bed.
 
 ### The Transformation in the Night
-* Tibble’s behavior grew increasingly aggressive due to her lycanthropic infection.
+* Tibble’s behavior grew increasingly aggressive due to her [lycanthropic infection](Conditions.md#lycanthropy).
 * Roark hired the goblin merchant to keep watch during the night.
 * Tibble transformed into a werewolf.
 * Roark immediately pursued her, while Vlad stayed with Percy, who was terrified.
 * Roark successfully dodged her attacks, then cast Command to make her revert and sleep.
-* Roark shouted for Vlad to grab the dream pillow.
+* Roark shouted for Vlad to grab the [dream pillow](./Items.md#blue-starry-book).
 * Vlad, who had been cooking soup with Percy by the fire, fetched the pillow and entered Tibble’s dream.
 
 ### The Dream and the Awakening
@@ -158,9 +158,9 @@ Party:
 * The soup Vlad had cooked without magic was surprisingly good — a symbolic moment showing his growing care for his companions.
 
 ### Clash with Joseph
-* Joseph stormed in angrily, calling Vlad reckless for aligning with his friends.
+* [Joseph](./Characters/Joseph.md) stormed in angrily, calling Vlad reckless for aligning with his friends.
 * Vlad defended his companions, saying that different strengths make a stronger whole, and that their playfulness boosted morale.
-* Percy accidentally bumped into Joseph, who struck him.
+* Percy accidentally bumped into [Joseph](./Characters/Joseph.md), who struck him.
 * Vlad froze, haunted by the memory of being struck the same way in his youth.
 * Roark verbally defended Percy, while Percy withdrew, shaken.
 
@@ -175,7 +175,7 @@ Party:
 * Vlad and Roark returned to the magical chessboard and solved it together.
 * A journal from the Watchers appeared, describing a chess metaphor about sacrificing pawns to cleanse a corrupted board.
 * “The pawns play at being kings, and now the board must be wiped clean.”
-* Vlad was deeply intrigued, torn between his utilitarian roots, his growing care for his companions, and the Watchers’ ruthless ideology.
+* Vlad was deeply intrigued, torn between his utilitarian roots, his growing care for his companions, and the [Watchers’](./Characters/Watchers.md) ruthless ideology.
 
 ### The Soup Duel
 * In the morning, Tibble doubted that Vlad had made the soup himself, so he vowed to prove it.
@@ -188,11 +188,11 @@ Party:
 * The party laughed together — a rare moment of warmth.
 
 ### Planning to Keep Their Memories
-* Knowing Joseph would cast a spell to remove their memories before entering the West, the party devised a plan:
-* Vlad would create an illusion of a Watcher commanding Joseph to let them retain their memories.
+* Knowing [Joseph](./Characters/Joseph.md) would cast a spell to remove their memories before entering the West, the party devised a plan:
+* Vlad would create an illusion of a Watcher commanding [Joseph](./Characters/Joseph.md) to let them retain their memories.
 * Roark would use Command to reinforce the illusion.
-* Tibble would cast Hypnotic Pattern to charm Joseph for an advantage.
-* Despite the clever setup, Joseph saw through it all and mocked Vlad for taking a coward’s path instead of confronting him directly.
+* Tibble would cast Hypnotic Pattern to charm [Joseph](./Characters/Joseph.md) for an advantage.
+* Despite the clever setup, [Joseph](./Characters/Joseph.md) saw through it all and mocked Vlad for taking a coward’s path instead of confronting him directly.
 
 ### The Fight Against Joseph
 Initiative begins.
@@ -210,7 +210,7 @@ Initiative begins.
 * Percy slashes again; Tibble misses her Hypnotic Pattern.
 * Roark lands Searing Smite, setting Joseph ablaze.
 * Joseph strikes Vlad, triggering Armor of Agathys for retaliatory damage.
-* Joseph grapples Vlad and begins casting the memory removal spell — but Roark activates his Clockwork Eye, reversing time just enough for Vlad to escape.
+* Joseph grapples Vlad and begins casting the memory removal spell — but Roark activates his [Clockwork Eye](Items.md#clockwork-eye), reversing time just enough for Vlad to escape.
 * Vlad notices the blue light (nat 20 on Perception) and suspects Roark intervened.
 * Vlad uses his extra chance to land a Booming Blade — a blow that could have killed Joseph.
 * But seeing Joseph’s weakness, Vlad chooses mercy, knocking him unconscious instead.
@@ -219,5 +219,5 @@ Initiative begins.
 ### The Aftermath
 * Vlad leaves a [note](./Note-From-Vlad-To-Joseph.md) in Joseph’s clothes, intending to make amends.
 * Then: hands clap in the silence.
-* Minerva appears, her voice echoing through the hall:
+* [Minerva](./Characters/Minerva.md) appears, her voice echoing through the hall:
 * “Well done. Mind if I join you?”

@@ -15,4 +15,5 @@
 * [Roark](./Roark.md)
 * [Teresa](./Teresa.md)
 * [Tibble](./Tibble.md)
+* [Watchers](./Watchers.md)
 * [Unknown](./Unknown.md) (Shaded figure)(Conjurer)

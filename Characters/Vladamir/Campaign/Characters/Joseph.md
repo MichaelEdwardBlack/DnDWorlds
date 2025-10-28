@@ -10,3 +10,5 @@ He believed that only strength gave meaning to life, and the weapons were not ju
 [Ekaterina](./Ekaterina.md) was much different, quieter and sharper. She saw value in precision and foresight. She had a gift to spot impurities in ore and flaws in the steel before it shattered under a hammers strike.
 
 While the two were perfect for each other in the forge, their house was unfortunately divided in values and philosophy. Vladimir's brothers took to their father's teachings. [Adolf](./Adolf.md) found the most favor in his father's eyes, with his brutal and cruel methods. Vlad may have been the only one who valued his mother's teachings, especially after being called "reckless" by his father. From then on Vlad would find worth only in "usefulness," not strength, not kindness, just utility
+
+Was attacked by our heros and left with a [note from Vlad](../Note-From-Vlad-To-Joseph.md)
