@@ -1,6 +1,6 @@
 📝 The Note from Vlad to Joseph
 
-```
+
 (Handwritten in precise, elegant script. Folded once and tucked under Joseph’s gauntlet.)
 
 Father,
@@ -20,4 +20,3 @@ When you wake, remember that your son spared you.
 — Vladamir
 
 P.S. I will win this game of pawns and kings. Even if I must rewrite the rules.
-```
